@@ -9,6 +9,7 @@ function App() {
         {id:2,title:'React',body:'Library',done:'false',important:'false',},
         {id:3,title:'C++',body:'Language programming',done:'false',important:'false',},
         {id:4,title:'HTML & CSS',body:'Verstka',done:'false',important:'false',},
+        {id:5,title:'Java',body:'Language programming',done:'false',important:'false',},
     ])
     const [title,setTitle] = useState('')
     const [body,setBody] = useState('')
